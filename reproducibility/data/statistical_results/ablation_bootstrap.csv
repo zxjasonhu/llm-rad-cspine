@@ -1,0 +1,4 @@
+Method,Delta (Observed),P-value,Sig,Method Mean Macro-F1,Ours Mean Macro-F1,CI Lower,CI Upper,P-value Raw,N Bootstrap,Random Seed
+Standard LoRA (Baseline),-0.024184,<0.0020,**,0.885068,0.909253,-0.045178,-0.006838,0.0,1000,42
+Random Sampling,-0.01381,0.0420,*,0.895443,0.909253,-0.030829,-0.000164,0.042,1000,42
+Label Verbalization,-0.008285,0.0400,*,0.900968,0.909253,-0.015386,-0.000725,0.04,1000,42

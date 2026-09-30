@@ -1,0 +1,3 @@
+# Existing aggregate inputs are tracked; new data files require explicit review.
+*
+!.gitignore

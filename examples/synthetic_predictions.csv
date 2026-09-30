@@ -1,0 +1,3 @@
+Linking_ID,Response,Occ_Condyle_Fracture,C1_Fracture,C2_Fracture,C3_Fracture,C4_Fracture,C5_Fracture,C6_Fracture,C7_Fracture
+SYNTHETIC-001,"{""Occ_Condyle_Fracture"": false, ""C1_Fracture"": false, ""C2_Fracture"": false, ""C3_Fracture"": false, ""C4_Fracture"": false, ""C5_Fracture"": false, ""C6_Fracture"": false, ""C7_Fracture"": false}",0,0,0,0,0,0,0,0
+SYNTHETIC-002,"{""Occ_Condyle_Fracture"": false, ""C1_Fracture"": false, ""C2_Fracture"": true, ""C3_Fracture"": false, ""C4_Fracture"": false, ""C5_Fracture"": false, ""C6_Fracture"": false, ""C7_Fracture"": false}",0,0,1,0,0,0,0,0

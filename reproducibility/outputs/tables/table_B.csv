@@ -1,0 +1,7 @@
+Metadata,Summary,"Across-year shift, 2017–2022","Train-test shift, 2017 vs 2018–2022",Interpretation
+Scanner manufacturer,GE Medical Systems in 100.0% of non-missing headers,V = 0.000,V = 0.000,No manufacturer change observed.
+Scanner model,"3 models; Revolution CT most common, 73.7%",p < 0.001; V = 0.142,p < 0.001; V = 0.103,Small scanner-model mix shift.
+Scanner software,9 software-version labels,p < 0.001; V = 0.732,p < 0.001; V = 0.686,"Large temporal software-version shift, consistent with scanner software updates."
+Study/protocol label,33 labels; top label 30.6%,p < 0.001; V = 0.140,p < 0.001; V = 0.113,Small protocol-label/study-description shift.
+Body-part metadata,"6 labels; HEAD most common, 54.0%",p < 0.001; V = 0.089,p < 0.001; V = 0.111,Small shift; field may reflect combined head/cervical-spine trauma protocols or metadata conventions.
+Reconstruction kernel,"3 labels; BONEPLUS most common, 54.1%",p < 0.001; V = 0.056,p = 0.621; V = 0.011,Minimal across-year shift and no meaningful train-test difference.

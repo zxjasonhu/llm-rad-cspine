@@ -1,0 +1,6 @@
+Train N,Epochs,Steps,Positive Cases in Training,Prevalence
+20,12,24,3,15%
+100,6,42,11,11%
+500,3,96,55,11%
+800,2,100,88,11%
+1064,2,134,117,11%

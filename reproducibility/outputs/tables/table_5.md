@@ -1,0 +1,10 @@
+| Error type | Reason category | Count | % |
+| --- | --- | --- | --- |
+| False Positives | Pathologic or degenerative lesion misinterpreted | 12 | 52.2% |
+| False Positives | Post-surgical or hardware related changes | 9 | 39.1% |
+| False Positives | Anatomical confusion (occipital condyle) | 1 | 4.3% |
+| False Positives | Typographical or extraction error | 1 | 4.3% |
+| False Negatives | Explicit fracture missed | 13 | 43.3% |
+| False Negatives | Equivocal or ambiguous wording | 9 | 30.0% |
+| False Negatives | Multiple fractures (complex) | 5 | 16.7% |
+| False Negatives | Implicit wording or wedge description | 3 | 10.0% |

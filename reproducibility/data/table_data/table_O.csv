@@ -1,0 +1,7 @@
+Model,Method,Macro F1,Macro Precision,Macro Recall,Total FN,Total FP,Report-Level F1,Report-Level FN,Report-Level FP
+Phi-3.5-Mini,Zero-shot,0.859,0.885,0.845,168,122,0.907,68,55
+,Standard LoRA,0.877 ± 0.008,0.938 ± 0.011,0.827 ± 0.018,171.8 ± 19.3,56.8 ± 9.0,0.918 ± 0.006,80.0 ± 7.6,25.0 ± 1.6
+,Impression-regularized LoRA,0.880 ± 0.003,0.919 ± 0.004,0.848 ± 0.006,152.0 ± 5.5,75.0 ± 4.3,0.920 ± 0.002,68.4 ± 2.5,35.4 ± 1.1
+MediPhi-Instruct,Zero-shot,0.730,0.905,0.638,385,88,0.817,183,33
+,Standard LoRA,0.869 ± 0.005,0.936 ± 0.013,0.813 ± 0.015,186.8 ± 14.1,55.2 ± 11.6,0.910 ± 0.004,94.0 ± 6.8,19.0 ± 3.7
+,Impression-regularized LoRA,0.882 ± 0.009,0.956 ± 0.008,0.823 ± 0.021,182.6 ± 22.9,39.8 ± 8.1,0.909 ± 0.008,98.0 ± 12.5,15.0 ± 4.1

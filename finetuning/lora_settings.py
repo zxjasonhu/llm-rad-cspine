@@ -1,0 +1,8 @@
+lora_constant = {
+    "r": 8,
+    "lora_alpha": 16,
+    "lora_dropout": 0.05,
+    "bias": "none",
+    "task_type": "CAUSAL_LM",
+    "target_modules": "all-linear",
+}
