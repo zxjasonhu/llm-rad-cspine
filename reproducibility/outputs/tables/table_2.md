@@ -1,0 +1,12 @@
+| Model Size | Method | Macro-F1 | Macro Precision | Macro Recall | Report Level Sensitivity | Report Level Specificity |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1B | Zero-shot (Direct) | 0.215 | 0.480 | 0.158 | 0.183 | 0.990 |
+|  | LoRA (Standard) | 0.646 ± 0.023 | 0.833 ± 0.017 | 0.553 ± 0.024 | 0.685 ± 0.030 | 0.990 ± 0.001 |
+|  | LoRA (Impression-regularized) | 0.782 ± 0.023 | 0.879 ± 0.028 | 0.713 ± 0.032 | 0.794 ± 0.025 | 0.994 ± 0.001 |
+| 4B | Zero-shot (Direct) | 0.669 | 0.543 | 0.932 | 0.968 | 0.934 |
+|  | LoRA (Standard) | 0.885 ± 0.022 | 0.883 ± 0.062 | 0.899 ± 0.028 | 0.937 ± 0.025 | 0.987 ± 0.010 |
+|  | LoRA (Impression-regularized) | 0.909 ± 0.004 | 0.929 ± 0.014 | 0.893 ± 0.010 | 0.943 ± 0.014 | 0.995 ± 0.002 |
+| 12B | Zero-shot (Direct) | 0.901 | 0.903 | 0.907 | 0.925 | 0.994 |
+|  | LoRA (Standard) | 0.921 ± 0.006 | 0.944 ± 0.016 | 0.900 ± 0.017 | 0.921 ± 0.025 | 0.996 ± 0.002 |
+|  | LoRA (Impression-regularized) | 0.925 ± 0.003 | 0.953 ± 0.008 | 0.899 ± 0.007 | 0.914 ± 0.008 | 0.998 ± 0.000 |
+| 27B | Zero-shot (Direct) | 0.913 | 0.908 | 0.922 | 0.934 | 0.995 |

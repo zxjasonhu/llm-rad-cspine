@@ -1,0 +1,27 @@
+<TASK:JSON> From the cervical spine CT radiology report and its summarized impression, extract binary fracture labels for the following regions:
+
+INSTRUCTIONS:
+1. Carefully analyze the content of both the report and impression.
+2. Focus only on **acute** or **recent traumatic fracture**.
+3. Label fractures described as *old, remote, chronic, healing, healed,* or *nonunion* as **false**.
+4. Label regions **not mentioned** or **explicitly negated** as **false**.
+5. Do not infer, interpret, or add information beyond what is explicitly stated in the report.
+
+OUTPUT RULES:
+1. Provide output strictly as JSON with the specified keys only.
+2. Ensure the JSON syntax is valid (no trailing commas, extra keys, or comments).
+
+OUTPUT FORMAT:
+Your JSON output must exactly match this template:
+```json
+{
+  "Occ_Condyle_Fracture": true/false,
+  "C1_Fracture": true/false,
+  "C2_Fracture": true/false,
+  "C3_Fracture": true/false,
+  "C4_Fracture": true/false,
+  "C5_Fracture": true/false,
+  "C6_Fracture": true/false,
+  "C7_Fracture": true/false
+}
+```

@@ -1,0 +1,3 @@
+Linking_ID,Report_Text,Impression_Response,Output_report,candidate_nll
+SYNTHETIC-001,CT CERVICAL SPINE: Alignment is normal. No acute cervical spine fracture.,No acute cervical spine fracture.,"{""Occ_Condyle_Fracture"": false, ""C1_Fracture"": false, ""C2_Fracture"": false, ""C3_Fracture"": false, ""C4_Fracture"": false, ""C5_Fracture"": false, ""C6_Fracture"": false, ""C7_Fracture"": false}",0.0
+SYNTHETIC-002,CT CERVICAL SPINE: Acute nondisplaced fracture of C2. No other acute cervical fracture.,Acute nondisplaced C2 fracture.,"{""Occ_Condyle_Fracture"": false, ""C1_Fracture"": false, ""C2_Fracture"": true, ""C3_Fracture"": false, ""C4_Fracture"": false, ""C5_Fracture"": false, ""C6_Fracture"": false, ""C7_Fracture"": false}",0.0

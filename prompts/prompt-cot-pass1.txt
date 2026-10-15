@@ -1,0 +1,8 @@
+<TASK:IMP> From the cervical spine CT radiology report, generate a single, concise impression statement.
+
+OUTPUT RULES:
+1. Use clear, professional medical language suitable for a radiology impression.
+2. Explicitly mention **acute or recent traumatic fractures** when present.
+3. Clearly qualify **chronic**,** **healed,** **remote,** **old** or **nonunion** fractures if described.
+4. State clearly if no acute fracture is described.
+5. Report only explicit findings or clear negations. Do not infer or speculate.
